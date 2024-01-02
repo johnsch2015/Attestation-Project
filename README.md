@@ -1,1 +1,1 @@
-# Documents written for internship project on container attestation
+# Documents written for internship project on container assurance
